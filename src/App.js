@@ -4,9 +4,9 @@ import "sendbird-uikit/dist/index.css";
 import SendBird from 'sendbird';
 import "./index.css";
 
-const APP_ID = "AE2B6399-227D-4D5A-8697-81162839EF31"
+const APP_ID = "-"
 const USER_ID = "user1"
-const Access_token = "43952c711a64bafc3a0021f4bafd772cb61126ee"
+const Access_token = "-"
 const sb = new SendBird({appId: APP_ID});
 
 //initialize sendbird chat
